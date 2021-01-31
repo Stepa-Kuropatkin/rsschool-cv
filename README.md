@@ -1,1 +1,1 @@
-https://stepa-kuropatkin.github.io/rsschool-cv/cv
+https://stepa-kuropatkin.github.io/rsschool-cv
