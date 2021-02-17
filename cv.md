@@ -42,7 +42,7 @@ Self education based on leanjs, MDN, codewars, dart.dev and flutter.dev
 
 ## Languages
 
-**English:** C1, accourding to EFSET Language Test: [sertificate][4]
+**English:** C1, according to EFSET Language Test: [sertificate][4]
  
 [1]: https://www.linkedin.com/in/igor-trotsuk-a189b4177
 [2]: https://github.com/Stepa-Kuropatkin/weatherapp
