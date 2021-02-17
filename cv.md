@@ -15,7 +15,7 @@ I have been learning JavaScript for 6 month on my own. Also I was freelancing fo
 - CSS
 - JavaScript
 - Dart 
-  - Flutter (State Management, JSON and Serialization, Navigation and etc.)
+  - Flutter (State Management, JSON and Serialization, Navigation)
 - Git
 - VS Code
 
@@ -42,9 +42,10 @@ Self education based on leanjs, MDN, codewars, dart.dev and flutter.dev
 
 ## Languages
 
-**English:** B1
+**English:** C1, accourding to [EFSET Language Test][4]
  
 [1]: https://www.linkedin.com/in/igor-trotsuk-a189b4177
 [2]: https://github.com/Stepa-Kuropatkin/weatherapp
 [3]: https://stepa-kuropatkin.github.io/first/
+[4]: https://www.efset.org/cert/7BbUiC
 
