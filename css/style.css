@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  color: #efd780;
+  color: #978237;
   font-family: "Noto Sans JP", sans-serif;
 }
 
@@ -17,19 +17,19 @@ h3 {
   padding: 0;
   margin: 0;
   color: #dba159;
+  border-bottom: #dba159 2px solid;
 }
 
 h3 {
   text-align: center;
 }
 
-h2 {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 90%, #d0e3cc 65%);
-}
-
 a {
-  color: #dba159;
+  color: #864c1c;
   text-decoration: none;
+}
+a:hover {
+  color: #ec8734;
 }
 
 img {
